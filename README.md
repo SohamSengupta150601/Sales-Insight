@@ -5,4 +5,4 @@ https://docs.google.com/presentation/d/1U61qH5c8lxyvJ9pNvYJTSZBQzVkjwKdc/edit?us
 
 #### Data Analysis using SQL  
   ##### 1.Show all customer records
-  <SELECT * FROM customers;>
+  ```SELECT * FROM customers;```
